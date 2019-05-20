@@ -1,0 +1,60 @@
+Analisis estadisticos con Python
+
+SECCION - VARIABLES
+[X]Variables
+[X]Listas
+[X]Tuplas
+[X]Numeros
+[X]Cadenas
+[X]Diccionarios
+[X]Variables locales y globales
+
+SECCION -OPERADORES
+[X]Aritméticos
+[X]Comparación
+[X]Asignación
+[X]Lógicos
+[X]Membresía
+[X]Identidad
+
+SECCION - CONDICIONALES Y BUCLES
+[]If
+[]For 
+[]While 
+[]Break 
+[]Continue
+
+SECCION - EXCEPCIONES
+[]Excepciones 
+
+SECCION - MODULO
+[]Modulo 
+
+SECCION - FUNCIONES
+[]Funciones 
+[]Funciones lambda
+[]Map
+[]Filter 
+[]Reduce
+
+SECCION - CLASES
+[]Clase 
+[]Metodos
+
+SECCION - NUMPY
+[]Numpy 
+
+SECCION - PANDAS
+[]Serie
+[]Data frame 
+
+SECCION - MATPLOTLIB
+[]Matplotlib 
+
+SECCION - CONOCIENDO LOS DATOS
+[]Aplicando estadística descriptiva
+
+SECCION - SKLEARN
+[]Ejercicio 1.1
+[]Ejercicio 1.2
+[]Ejercicio 2
