@@ -18,31 +18,31 @@ SECCION -OPERADORES
 [X]Identidad
 
 SECCION - CONDICIONALES Y BUCLES
-[]If
-[]For 
-[]While 
-[]Break 
-[]Continue
+[X]If
+[X]For 
+[X]While 
+[X]Break 
+[X]Continue
 
 SECCION - EXCEPCIONES
-[]Excepciones 
+[X]Excepciones 
 
 SECCION - MODULO
-[]Modulo 
+[X]Modulo 
 
 SECCION - FUNCIONES
-[]Funciones 
-[]Funciones lambda
-[]Map
-[]Filter 
-[]Reduce
+[X]Funciones 
+[X]Funciones lambda
+[X]Map
+[X]Filter 
+[X]Reduce
 
 SECCION - CLASES
-[]Clase 
-[]Metodos
+[X]Clase 
+[X]Metodos
 
 SECCION - NUMPY
-[]Numpy 
+[X]Numpy 
 
 SECCION - PANDAS
 []Serie
